@@ -3,4 +3,4 @@
 * CSS
 * SwiperJS
 
-Para visitar o site acesse: https://jonathanoj.github.io/NovoProjeto/
+Para visitar o site acesse: https://jonathanoj.github.io/LojaDeLivros/
